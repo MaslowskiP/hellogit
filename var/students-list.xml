@@ -71,5 +71,11 @@
     <github>niemaszoka </github>
     <group> KrDZIs3012Io</group>
     </student>
-
+	<student>
+		<firstname>Piotr</firstname>
+		<lastname>Mlowski</lastname>
+		<email>p.maslwoski94@gmail.com</ema>
+		<github>MaslowskiP</github>
+		<group>KrDZIs3012Io</group>
+	</srudent>
 </students>
